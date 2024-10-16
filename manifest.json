@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "ColorPicker",
+  "description": "A Color piker tool for color picker",
+  "version": "1.0",
+  "author": "abul hossain",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "cpicon.png"
+  }
+}
